@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:rokit-cloud@gmail.com"><img src="https://img.shields.io/badge/📧_rokit--cloud@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:rokitclouds@gmail.com"><img src="https://img.shields.io/badge/📧_rokitclouds@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Cloud_Projects)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/☁️_Living_in_the_Cloud-1e1e2e?style=for-the-badge" />
   </p>
